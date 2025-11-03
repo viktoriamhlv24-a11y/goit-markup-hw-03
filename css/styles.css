@@ -111,6 +111,7 @@ img {
 
 .main-page {
   background-color: #2e2f42;
+  padding: 188px 0;
 }
 
 .main-text {
@@ -120,6 +121,17 @@ img {
   letter-spacing: 0.02em;
   text-align: center;
   color: #ffffff;
+  max-width: 496px;
+}
+
+.main-page-button {
+  display: block;
+  min-width: 169px;
+  height: 56px;
+  border: none;
+  background-color: #4d5ae5;
+  border-radius: 4px;
+  cursor: pointer;
 }
 
 /* #region advantages */
