@@ -40,9 +40,32 @@ button:hover {
 button:focus {
   background-color: #404bbf;
 }
+
+img {
+  display: block;
+}
+
+.container {
+  width: 1158px;
+  margin: 0 auto;
+  padding: 0 15px;
+}
 /* #endregion common */
 
 /* #region header */
+.page-header {
+  border-bottom: 1px solid #e7e9fc;
+}
+
+.container-header {
+  display: flex;
+}
+
+.page-nav {
+  display: flex;
+  align-items: center;
+}
+
 .page-logo {
   font-family: 'Raleway', sans-serif;
   font-weight: 700;
@@ -51,17 +74,20 @@ button:focus {
   letter-spacing: 0.03em;
   text-transform: uppercase;
   color: #4d5ae5;
+  margin-right: 76px;
 }
 
 .logo-detail {
   color: #2e2f42;
 }
 
-.page-nav {
+.page-nav-list {
   font-weight: 500;
   font-size: 16px;
   line-height: 1.5;
   letter-spacing: 0.02em;
+  display: flex;
+  gap: 40px;
 }
 
 .page-addres {
@@ -74,6 +100,12 @@ button:focus {
 
 .page-addres-link {
   color: #434455;
+  padding: 24px 0;
+}
+
+.page-nav-addres {
+  display: flex;
+  gap: 40px;
 }
 /* #endregion header */
 
