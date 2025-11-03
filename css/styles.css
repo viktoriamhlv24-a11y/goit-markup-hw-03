@@ -90,16 +90,13 @@ img {
   gap: 40px;
 }
 
-.page-nav-item {
-  padding: 24px 0;
-}
-
 .page-addres {
   font-style: normal;
   font-weight: 400;
   font-size: 16px;
   line-height: 1.5;
   letter-spacing: 0.02em;
+  padding: 24px 0;
 }
 
 .page-addres-link {
