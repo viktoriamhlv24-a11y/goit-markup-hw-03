@@ -152,7 +152,7 @@ img {
   overflow: hidden;
 }
 
-.advantages-nav {
+.advantages-list {
   display: flex;
   gap: 24px;
 }
