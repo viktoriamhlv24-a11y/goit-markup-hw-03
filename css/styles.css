@@ -88,6 +88,9 @@ img {
   letter-spacing: 0.02em;
   display: flex;
   gap: 40px;
+}
+
+.page-nav-item {
   padding: 24px 0;
 }
 
