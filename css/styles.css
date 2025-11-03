@@ -90,6 +90,10 @@ img {
   gap: 40px;
 }
 
+.page-nav-link {
+  padding: 24px 0;
+}
+
 .page-addres {
   font-style: normal;
   font-weight: 400;
@@ -100,7 +104,6 @@ img {
 
 .page-addres-link {
   color: #434455;
-  padding: 24px 0;
 }
 
 .page-nav-addres {
