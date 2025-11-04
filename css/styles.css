@@ -100,6 +100,7 @@ img {
   font-size: 16px;
   line-height: 1.5;
   letter-spacing: 0.02em;
+  margin-left: auto;
 }
 
 .page-addres-link {
@@ -125,6 +126,7 @@ img {
   text-align: center;
   color: #ffffff;
   max-width: 496px;
+  margin: 0 auto 48px;
 }
 
 .main-page-button {
@@ -135,6 +137,7 @@ img {
   background-color: #4d5ae5;
   border-radius: 4px;
   cursor: pointer;
+  margin: 0;
 }
 
 /* #region advantages */
